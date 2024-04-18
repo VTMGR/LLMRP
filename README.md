@@ -1,5 +1,5 @@
 # LLMRP
-A Character RP Website that runs Entirely Locally VIA Ollama.
+A Fairly Fast Character RP Website that runs Entirely Locally VIA Ollama.
 
 
 # This project is still under development!
